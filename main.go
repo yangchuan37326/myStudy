@@ -14,7 +14,7 @@
 
 package main
 
-import "mydragonfly/cmd"
+import "myStudy/cmd"
 
 func main() {
 	cmd.Execute()
